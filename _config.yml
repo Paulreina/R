@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://paulreina.com/r
+url: http://paulreina.github.com/r
 author: Reina
 pygments: true
 
