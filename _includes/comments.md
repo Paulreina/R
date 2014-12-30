@@ -1,6 +1,6 @@
 
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="" data-title="{{ site.title }}" data-url="{{ site.url }}{{ page.url | remove:'index.html' }}"></div>
+	<div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="http://paulreina.com/R/{{ page.url }}"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
