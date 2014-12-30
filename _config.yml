@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /:year/:month/:title/
+permalink: /:year:month/:title/
 url: http://paulreina.com/R
 author: Reina
 pygments: true
