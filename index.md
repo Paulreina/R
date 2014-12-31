@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+title: Reina Mao's Blog
 layout: page
 ---
 
