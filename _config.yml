@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /post/:title/
 url: http://paulreina.com/R
 author: Reina Mao
