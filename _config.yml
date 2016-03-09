@@ -1,6 +1,6 @@
 markdown: rdiscount
-permalink: /:title/
-url: http://we.paulreina.com/R
+permalink: /post/:title/
+url: http://paulreina.com/R
 author: Reina Mao
 pygments: true
 
