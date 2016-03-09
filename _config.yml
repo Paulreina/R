@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /post/:title/
+permalink: /post/:title.html
 url: http://paulreina.com/R
 author: Reina Mao
 pygments: true
